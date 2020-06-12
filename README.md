@@ -1,1 +1,1 @@
-## Exercicies python Alf 2020
+## Exercises python Alf 2020
